@@ -6,3 +6,4 @@ var c=50
 
 add= a+b+c
 
+commit change made in locally
